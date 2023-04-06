@@ -1,4 +1,3 @@
-TOUCH */
 
 /* Update Checker start */
 (async () => { /* This is to prevent "identifier i is already declared errors" */
